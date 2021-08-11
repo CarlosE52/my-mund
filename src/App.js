@@ -1,17 +1,17 @@
-import logo from './logo.svg';
+import logo from './assets/logo-2c.png';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-box">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Curso React
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://discord.gg/YcKJGQnK"
           target="_blank"
           rel="noopener noreferrer"
         >
